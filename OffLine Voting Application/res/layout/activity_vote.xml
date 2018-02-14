@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Vote" >
+
+    <TextView
+        android:id="@+id/votetv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select your choice" />
+    <TextView
+        android:id="@+id/votetv2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="ShivSena" 
+        android:layout_below="@+id/votetv1"
+        android:gravity="center"
+        android:layout_marginTop="5dp"/>
+    <TextView
+        android:id="@+id/votetv3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Manse" 
+        android:layout_below="@+id/votetv2"
+        android:gravity="center"
+        android:layout_marginTop="5dp"/>
+    <TextView
+        android:id="@+id/votetv4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="BJP" 
+        android:layout_below="@+id/votetv3"
+        android:gravity="center"
+        android:layout_marginTop="5dp"/>
+    <TextView
+        android:id="@+id/votetv5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="NCP"
+        android:layout_below="@+id/votetv4" 
+        android:gravity="center"
+        android:layout_marginTop="5dp"/>
+    
+    
+
+</RelativeLayout>
