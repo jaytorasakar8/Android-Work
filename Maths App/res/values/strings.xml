@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Maths</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_curves">Curves</string>
+    <string name="title_activity_bmi">Bmi</string>
+    <string name="title_activity_age">Age</string>
+    <string name="title_activity_calci">Calci</string>
+    <string name="title_activity_calci2">Calci2</string>
+    <string name="title_activity_calci1">Calci1</string>
+    <string name="title_activity_curves1">Curves1</string>
+    <string name="title_activity_curves2">Curves2</string>
+    <string name="title_activity_curves3">Curves3</string>
+    <string name="title_activity_curves4">Curves4</string>
+    <string name="title_activity_curves5">Curves5</string>
+    <string name="title_activity_curves6">Curves6</string>
+    <string name="title_activity_curves7">Curves7</string>
+    <string name="title_activity_curves8">Curves8</string>
+
+</resources>
