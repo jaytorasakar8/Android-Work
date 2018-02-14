@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.maths"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.maths.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.maths.Curves"
+            android:label="@string/title_activity_curves" >
+        </activity>
+        <activity
+            android:name="com.example.maths.Bmi"
+            android:label="@string/title_activity_bmi" >
+        </activity>
+        <activity
+            android:name="com.example.maths.Age"
+            android:label="@string/title_activity_age" >
+        </activity>
+        <activity
+            android:name="com.example.maths.Calci"
+            android:label="@string/title_activity_calci" >
+        </activity>
+        <activity
+            android:name="com.example.maths.Calci2"
+            android:label="@string/title_activity_calci2" >
+        </activity>
+        <activity
+            android:name="com.example.maths.Calci1"
+            android:label="@string/title_activity_calci1" >
+        </activity>
+        <activity
+            android:name="com.example.maths.Curves1"
+            android:label="@string/title_activity_curves1" >
+        </activity>
+        <activity
+            android:name="com.example.maths.Curves2"
+            android:label="@string/title_activity_curves2" >
+        </activity>
+        <activity
+            android:name="com.example.maths.Curves3"
+            android:label="@string/title_activity_curves3" >
+        </activity>
+        <activity
+            android:name="com.example.maths.Curves4"
+            android:label="@string/title_activity_curves4" >
+        </activity>
+        <activity
+            android:name="com.example.maths.Curves5"
+            android:label="@string/title_activity_curves5" >
+        </activity>
+        <activity
+            android:name="com.example.maths.Curves6"
+            android:label="@string/title_activity_curves6" >
+        </activity>
+        <activity
+            android:name="com.example.maths.Curves7"
+            android:label="@string/title_activity_curves7" >
+        </activity>
+        <activity
+            android:name="com.example.maths.Curves8"
+            android:label="@string/title_activity_curves8" >
+        </activity>
+    </application>
+
+</manifest>
