@@ -1,0 +1,127 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent" >
+    
+    <TableRow >
+
+        <TextView
+            android:height="60px"
+            android:text="Academics "
+            android:textStyle="bold|italic"
+            android:width="100px" />
+
+        <TextView 
+             android:height="60px"
+            android:width="200px"
+            android:text=" "
+            />
+    </TableRow>
+    
+    <TableRow >
+        <TextView 
+            android:height="40px"
+            android:width="100px"
+            android:text="Sem 6"
+            />
+        <TextView 
+             android:height="40px"
+            android:width="200px"
+            android:text="58%"
+            />
+    </TableRow>
+    
+    <TableRow >
+        <TextView 
+            android:height="40px"
+            android:width="100px"
+            android:text="Sem 5"
+            />
+        <TextView 
+             android:height="40px"
+            android:width="200px"
+            android:text="60%"
+            />
+    </TableRow>
+    
+    <TableRow >
+        <TextView 
+            android:height="40px"
+            android:width="100px"
+            android:text="Sem 4"
+            />
+        <TextView 
+             android:height="40px"
+            android:width="200px"
+            android:text="63%"
+            />
+    </TableRow>
+    
+    <TableRow >
+        <TextView 
+            android:height="40px"
+            android:width="100px"
+            android:text="Sem 3"
+            />
+        <TextView 
+             android:height="40px"
+            android:width="200px"
+            android:text="58%"
+            />
+    </TableRow>
+    
+    <TableRow >
+        <TextView 
+            android:height="40px"
+            android:width="100px"
+            android:text="Sem 2"
+            />
+        <TextView 
+             android:height="40px"
+            android:width="200px"
+            android:text="58%"
+            />
+    </TableRow>
+    
+    <TableRow >
+        <TextView 
+            android:height="40px"
+            android:width="100px"
+            android:text="Sem 1"
+            />
+        <TextView 
+             android:height="40px"
+            android:width="200px"
+            android:text="58%"
+            />
+    </TableRow>
+    
+    <TableRow >
+        <TextView 
+            android:height="40px"
+            android:width="100px"
+            android:text="12th HSC"
+            />
+        <TextView 
+             android:height="40px"
+            android:width="200px"
+            android:text="82%"
+            />
+    </TableRow>
+    
+    <TableRow >
+        <TextView 
+            android:height="40px"
+            android:width="100px"
+            android:text="10th SSC"
+            />
+        <TextView 
+             android:height="40px"
+            android:width="200px"
+            android:text="88%"
+            />
+    </TableRow>
+    
+    
+    
+</TableLayout>

@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item 
+        android:id="@+id/edu"
+        android:title="Educational"
+        android:showAsAction="ifRoom"
+        />
+    
+    <item 
+        android:id="@+id/per"
+        android:title="Personal"
+        android:showAsAction="ifRoom"
+        />
+    
+    <item 
+        android:id="@+id/obj"
+        android:title="Objective"
+        android:showAsAction="ifRoom"
+        />
+    
+    <item 
+        android:id="@+id/con"
+        android:title="Contact"
+        android:showAsAction="ifRoom"
+        />
+    
+</menu>
