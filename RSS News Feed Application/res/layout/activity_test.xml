@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+    
+android:layout_height="fill_parent"
+android:layout_width="fill_parent"
+>
+<TableRow android:id="@+id/tr0"
+    android:onClick="click"
+    android:tag="0"
+    >
+    
+    <ImageView 
+        android:id="@+id/image0"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/thanks"
+        android:layout_width="100px"
+        android:layout_height="70px"
+        
+        />
+	<TextView
+	    android:layout_marginTop="10dp"
+	    android:layout_marginLeft="10dp"
+	android:text="Many people attend the Hare Krishna temple"
+	android:width ="325px"
+	android:textSize="14dp"
+	
+	/>
+	
+</TableRow>
+
+<TableRow android:id="@+id/tr1"
+    android:onClick="click"
+    >
+    <ImageView 
+        android:id="@+id/image1"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/img1"
+        android:layout_width="100px"
+        android:layout_height="70px"
+        
+        />
+	<TextView
+	    android:layout_marginTop="10dp"
+	    android:layout_marginLeft="10dp"
+	android:text="Zlatan Is now a United Player"
+	android:width ="125px"
+	android:textSize="14dp"
+	
+	/>
+	
+</TableRow>
+
+
+<TableRow android:id="@+id/tr2"
+    android:onClick="click"
+    android:tag="1">
+    <ImageView 
+        android:id="@+id/image2"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/img2"
+        android:layout_width="100px"
+        android:layout_height="70px"
+        
+        />
+	<TextView
+	    android:layout_marginTop="10dp"
+	    android:layout_marginLeft="10dp"
+	android:text="Zlatan Ibramovic signs for Manchester United"
+	android:width ="125px"
+	android:textSize="14dp"
+	
+	/>
+	
+</TableRow>
+
+
+<TableRow android:id="@+id/tr3"
+    android:onClick="click"
+    android:tag="1">
+    <ImageView 
+        android:id="@+id/image3"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/img3"
+        android:layout_width="100px"
+        android:layout_height="70px"
+        
+        />
+	<TextView
+	    android:layout_marginTop="10dp"
+	    android:layout_marginLeft="10dp"
+	android:text="Get all the news about Zlatan signing for United"
+	android:width ="125px"
+	android:textSize="14dp"
+	
+	/>
+	
+</TableRow>
+
+
+<TableRow android:id="@+id/tr4"
+    android:onClick="click"
+    android:tag="1">
+    <ImageView 
+        android:id="@+id/image4"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/img4"
+        android:layout_width="100px"
+        android:layout_height="70px"
+        
+        />
+	<TextView
+	    android:layout_marginTop="10dp"
+	    android:layout_marginLeft="10dp"
+	android:text="The new car BMW i8 launched in the market at price of 2.5 Crore"
+	android:width ="125px"
+	android:textSize="14dp"
+	
+	/>
+</TableRow>
+
+
+<TableRow android:id="@+id/tr5"
+    android:onClick="click"
+    android:tag="1">
+    <ImageView 
+        android:id="@+id/image5"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/img5"
+        android:layout_width="100px"
+        android:layout_height="70px"
+        
+        />
+	<TextView
+	    android:layout_marginTop="10dp"
+	    android:layout_marginLeft="10dp"
+	android:text="Get all the info about the new BMW i8"
+	android:width ="125px"
+	android:textSize="14dp"
+	
+	/>
+</TableRow>
+
+<TableRow android:id="@+id/tr6"
+    android:onClick="click"
+    android:tag="1">
+    <ImageView 
+        android:id="@+id/image6"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/img6"
+        android:layout_width="100px"
+        android:layout_height="70px"
+        
+        />
+	<TextView
+	    android:layout_marginTop="10dp"
+	    android:layout_marginLeft="10dp"
+	android:text="Leanardo Di Caprio wins Oscar for the Best Actor."
+	android:width ="125px"
+	android:textSize="14dp"
+	
+	/>
+</TableRow>
+
+
+</TableLayout>
+
+
+
+
+
+

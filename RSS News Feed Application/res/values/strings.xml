@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="title_activity_thanks">Thanks</string>
+    <string name="title_activity_test">Test</string>
+
+    <string-array name="topstories">
+        <item>0</item>
+        <item>@drawable/splash</item>
+        <item>this is a first row item</item>
+        <item>kljafsd k ajslkdf la dsfljk lja kdfslj </item>
+    </string-array>
+    <string-array name="spiritual">
+        <item>1</item>
+        <item>thanks</item>
+        <item>People attend the Hare Krishna temple for Janmashtami</item>
+        <item>the festival of janmashtami was celebrated with a lot of joy and enthusiasm in Mumbai</item>
+    </string-array>
+    <string-array name="sports1">
+        <item>1</item>
+        <item>img1</item>
+        <item>Zlatan Is now a United Player</item>
+        <item>Zlatan has signed for Manchester united. His proposed move to united was completed after the Euro exit of Sweden. </item>
+    </string-array>
+    <string-array name="sports2">
+        <item>1</item>
+        <item>img2</item>
+        <item>Zlatan Ibramovic signs for Manchester United</item>
+        <item>Zlatan has signed for Manchester united. His proposed move to united was completed after the Euro exit of Sweden. </item>
+    </string-array>
+    <string-array name="sports3">
+        <item>1</item>
+        <item>img3</item>
+        <item>Get all the news about Zlatan signing for United</item>
+        <item>Zlatan has signed for Manchester united. His proposed move to united was completed after the Euro exit of Sweden. </item>
+    </string-array>
+    <string-array name="cars1">
+        <item>1</item>
+        <item>img4</item>
+        <item>The new car BMW i8 launched in the market at price of 2.5 Crore</item>
+        <item>The BMW has brought in a new car in the market, the brand new BMW i8, for a whooping price of 2.5 Crore. This car is available in the stores of Mumbai only.</item>
+    </string-array>
+    <string-array name="cars2">
+        <item>1</item>
+        <item>img5</item>
+        <item>Get all the info about the new BMW i8</item>
+        <item>The car is available in the stores of Mumbai only. It has an engine of 50 Horse power and a 2.5 litre tank.</item>
+    </string-array>
+    <string-array name="entertainment1">
+        <item>1</item>
+        <item>img6</item>
+        <item>Leanardo Di Caprio wins Oscar for the Best Actor.</item>
+        <item>Finally Leonardo Di Caprio has won the Oscar for his role in the movie The Reverant. He won the oscar after 23 years of hard work in this industry.</item>
+    </string-array>
+
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_activity_spiritual">Spiritual</string>
+    <string name="title_activity_sports">Sports</string>
+    <string name="title_activity_entertainment">Entertainment</string>
+    <string name="title_activity_cars">Cars</string>
+    <string name="title_activity_bookmark">Bookmark</string>
+    <string name="title_activity_newspage">Newspage</string>
+    <string name="title_activity_test2">Test2</string>
+
+</resources>

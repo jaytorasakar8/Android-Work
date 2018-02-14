@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.myapp.Splash"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.myapp.MainPage"
+            android:label="@string/title_activity_main_page" >
+        </activity>
+        <activity
+            android:name="com.example.myapp.Thanks"
+            android:label="@string/title_activity_thanks" >
+        </activity>
+        <activity
+            android:name="com.example.myapp.Test"
+            android:label="@string/title_activity_test" >
+        </activity>
+        <activity
+            android:name="com.example.myapp.HomePage"
+            android:label="@string/title_activity_home_page" >
+        </activity>
+        <activity
+            android:name="com.example.myapp.Spiritual"
+            android:label="@string/title_activity_spiritual" >
+        </activity>
+        <activity
+            android:name="com.example.myapp.Sports"
+            android:label="@string/title_activity_sports" >
+        </activity>
+        <activity
+            android:name="com.example.myapp.Entertainment"
+            android:label="@string/title_activity_entertainment" >
+        </activity>
+        <activity
+            android:name="com.example.myapp.Cars"
+            android:label="@string/title_activity_cars" >
+        </activity>
+        <activity
+            android:name="com.example.myapp.Bookmark"
+            android:label="@string/title_activity_bookmark" >
+        </activity>
+        <activity
+            android:name="com.example.myapp.Newspage"
+            android:label="@string/title_activity_newspage" >
+        </activity>
+        <activity
+            android:name="com.example.myapp.Test2"
+            android:label="@string/title_activity_test2" >
+        </activity>
+    </application>
+
+</manifest>

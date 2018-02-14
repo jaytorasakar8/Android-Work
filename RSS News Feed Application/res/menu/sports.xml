@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+  <item 
+        android:id="@+id/homepage"
+        android:title="Homepage"
+        android:showAsAction="ifRoom"
+        />
+    
+    <item 
+        android:id="@+id/bookmark"
+        android:title="Bookmark"
+        android:showAsAction="ifRoom"
+        />
+    
+    <item 
+        android:id="@+id/exit"
+        android:title="Exit"
+        android:showAsAction="ifRoom"
+        />
+</menu>

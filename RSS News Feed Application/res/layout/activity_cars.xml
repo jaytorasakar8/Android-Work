@@ -1,0 +1,54 @@
+<TableLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+    
+android:layout_height="fill_parent"
+android:layout_width="fill_parent"
+>
+<TableRow android:id="@+id/tr0"
+    android:onClick="click"
+    android:tag="0"
+    >
+    
+    <ImageView 
+        android:id="@+id/image4"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/img4"
+        android:layout_width="100px"
+        android:layout_height="70px"
+        
+        />
+	<TextView
+	    android:layout_marginTop="10dp"
+	    android:layout_marginLeft="10dp"
+	android:text="The new car BMW i8 launched in the market at price of 2.5 Crore"
+	android:width ="325px"
+	android:textSize="14dp"
+	
+	/>
+</TableRow>
+
+	<TableRow android:id="@+id/tr5"
+    android:onClick="click"
+    android:tag="1">
+    <ImageView 
+        android:id="@+id/image5"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/img5"
+        android:layout_width="100px"
+        android:layout_height="70px"
+        
+        />
+	<TextView
+	    android:layout_marginTop="10dp"
+	    android:layout_marginLeft="10dp"
+	android:text="Get all the info about the new BMW i8"
+	android:width ="125px"
+	android:textSize="14dp"
+	
+	/>
+</TableRow>
+	
+
+</TableLayout>

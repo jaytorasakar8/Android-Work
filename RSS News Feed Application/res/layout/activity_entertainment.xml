@@ -1,0 +1,31 @@
+<TableLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+    
+android:layout_height="fill_parent"
+android:layout_width="fill_parent"
+>
+<TableRow android:id="@+id/tr0"
+    android:onClick="click"
+    android:tag="0"
+    >
+    
+    <ImageView 
+        android:id="@+id/image0"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/img6"
+        android:layout_width="100px"
+        android:layout_height="70px"
+        
+        />
+	<TextView
+	    android:layout_marginTop="10dp"
+	    android:layout_marginLeft="10dp"
+	android:text="Leanardo Di Caprio wins Oscar for the Best Actor."
+	android:width ="325px"
+	android:textSize="14dp"
+	
+	/>
+	
+</TableRow>
+</TableLayout>

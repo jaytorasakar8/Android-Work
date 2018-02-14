@@ -1,0 +1,81 @@
+<TableLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+    
+android:layout_height="fill_parent"
+android:layout_width="fill_parent"
+>
+
+<TableRow android:id="@+id/tr1"
+    android:onClick="click"
+    >
+    <ImageView 
+        android:id="@+id/image1"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/img1"
+        android:layout_width="100px"
+        android:layout_height="70px"
+        
+        />
+	<TextView
+	    android:layout_marginTop="10dp"
+	    android:layout_marginLeft="10dp"
+	android:text="Zlatan Is now a United Player"
+	android:width ="375px"
+	android:textSize="14dp"
+	
+	/>
+	
+</TableRow>
+
+
+<TableRow android:id="@+id/tr2"
+    android:onClick="click"
+    android:tag="1">
+    <ImageView 
+        android:id="@+id/image2"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/img2"
+        android:layout_width="100px"
+        android:layout_height="70px"
+        
+        />
+	<TextView
+	    android:layout_marginTop="10dp"
+	    android:layout_marginLeft="10dp"
+	android:text="Zlatan Ibramovic signs for Manchester United"
+	android:width ="125px"
+	android:textSize="14dp"
+	
+	/>
+	
+</TableRow>
+
+
+<TableRow android:id="@+id/tr3"
+    android:onClick="click"
+    android:tag="1">
+    <ImageView 
+        android:id="@+id/image3"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/img3"
+        android:layout_width="100px"
+        android:layout_height="70px"
+        
+        />
+	<TextView
+	    android:layout_marginTop="10dp"
+	    android:layout_marginLeft="10dp"
+	android:text="Get all the news about Zlatan signing for United"
+	android:width ="125px"
+	android:textSize="14dp"
+	
+	/>
+	
+</TableRow>
+    
+    
+
+</TableLayout>
